@@ -1,0 +1,4 @@
+# Project exclude paths
+/acm-spring-boot-autoconfigure/target/
+/acm-spring-boot-samples/target/
+/acm-spring-boot-starter/target/

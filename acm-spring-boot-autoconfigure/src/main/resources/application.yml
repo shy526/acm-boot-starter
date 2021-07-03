@@ -1,0 +1,13 @@
+acm:
+  envName:
+    test
+  accessKey:
+  secretKey:
+  regionId: 
+  group-id: test
+  data-ids:
+    - cipher-kms-aes-128-test
+  env:
+    test:
+      endpoint: acm.aliyun.com
+      namespace:
