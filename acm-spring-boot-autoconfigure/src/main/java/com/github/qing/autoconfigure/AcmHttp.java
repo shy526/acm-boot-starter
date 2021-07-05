@@ -4,7 +4,7 @@ import org.springframework.boot.web.client.RestTemplateBuilder;
 
 /**
  *
- * @author sunda
+ * @author qing
  */
 public class AcmHttp {
 

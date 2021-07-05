@@ -15,9 +15,18 @@ public class AcmProperties {
     private String accessKey;
     private String secretKey;
     private String regionId;
-    private String groupId="DEFAULT_GROUP";
+    private String groupId = "DEFAULT_GROUP";
     private Set<String> dataIds;
+    private String form="properties";
     private static Properties nowAcm;
+
+    public String getForm() {
+        return form;
+    }
+
+    public void setForm(String form) {
+        this.form = form;
+    }
 
     public String getGroupId() {
         return groupId;

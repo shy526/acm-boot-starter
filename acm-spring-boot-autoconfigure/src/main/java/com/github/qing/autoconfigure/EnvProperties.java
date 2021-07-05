@@ -1,7 +1,7 @@
 package com.github.qing.autoconfigure;
 
 /**
- * @author sunda
+ * @author qing
  */
 public class EnvProperties {
     private String endpoint;

@@ -11,8 +11,8 @@ import org.springframework.context.annotation.Configuration;
 /**
  * @author qing
  */
-@ConditionalOnClass
 @Configuration
+@ConditionalOnClass
 public class AcmAutoConfiguration {
     @Bean
     @ConfigurationProperties(prefix = AcmProperties.PREFIX)

@@ -1,6 +1,6 @@
 acm:
-  envName:
-    test
+  envName: test
+  form: json
   accessKey:
   secretKey:
   regionId: 
